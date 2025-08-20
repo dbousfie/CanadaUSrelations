@@ -50,7 +50,7 @@ Turtle Island (North America).
 
   **Email:**        dbousfie@uwo.ca
 
-  **Text only       289-620-6665
+  **Text only     
   phone**           
 
   **Facebook        *Optional*
@@ -2037,3 +2037,4 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     This is an **open source document** (CC BY NC 4.0). Feel free to use
     it, modify it, and share it with others .This document was designed
     by [Dr. Torrey Trust.](http://www.torreytrust.com/)
+
