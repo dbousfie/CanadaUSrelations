@@ -46,11 +46,11 @@ Turtle Island (North America).
   --------------------------------------------------------------------------
   **Instructor:**   Dan Bousfield
   ----------------- --------------------------------------------------------
-  **Office Hours:** Wednesday 10am-noon
+  **Office Hours:** Wednesday 11:00am-1:00pm via zoom - link in Brightspace
 
   **Email:**        dbousfie@uwo.ca
 
-  **Text only     
+  **Text only       289-620-6665
   phone**           
 
   **Facebook        *Optional*
@@ -352,7 +352,7 @@ supporting documentation** in this course. However, the following
 assessments are excluded from this, and therefore always require formal
 supporting documentation:
 
-Term Assignment -- 25%
+Term Assignment
 
 When a student *[mistakenly]{.underline}* submits their
 [one]{.underline} allowed Academic Consideration request **without
@@ -426,7 +426,7 @@ agreement, currently between The Alexa what\'s 25 \* 0.7 University of
 Western Ontario and Turnitin.com
 ([http://www.turnitin.com](http://www.turnitin.com/)).
 
-## Weekly Participation -- 25% (Weekly submissions) 
+## Weekly Participation --(Weekly submissions) 
 
 Weekly Assignments -- Base submission is pass/fail 70% (17.5 of 25)
 
@@ -484,7 +484,7 @@ participation mark.
 
 At the end of the course students just need to calculate their
 participation based on the submissions each week throughout the course.
-We will take your top 5 weeks.\
+We will take your top 10 weeks.\
 \
 2 forms of participation per week = 70% (pass/fail)\
 \
@@ -494,28 +494,8 @@ approximations, I withhold the right to assess the quality of the
 submission and adjust the grade accordingly). You should be able to
 demonstrate your responses to my feedback, engaging with different
 course material each week to demonstrate improvement throughout the
-course.\
-\
-Therefore the calculation would look like:
-
-'This is my calculation of my participation
-
-- 2 forms of participation: 2x on weeks 1, 2, 3, 7, 10 (I did the
-  quizzes and another exercise) 5\*70 = 350 & I responded to feedback
-  (see the attached files, improving my citation and paragraph
-  structure) =10\*50 = 400/500
-
-- 3 forms of participation: Week 4, 5 (I did 2 quizzes and 2 TikTok\'s
-  and two op-eds) = 2\* 80 = 160/200
-
-- 4 forms of participation: Week 6, 8, 9 = (I did 3 quizzes, 2 article
-  reviews, 2 debates, 2 podcasts) = 3\*90 & 10% because you said I
-  improved the podcasts = 3\*100 = 300/300
-
-- Total calculation:\
-  400+200+300 = 900/1000 = 90% or 22.5/25\
-  Therefore, my participation for the term should be 22.5 out of 25 -
-  please see the attached files to demonstrate my improvement.'
+course. See Brightspace for an example of how to calculate your
+participation grade.
 
 ## Attendance Bonus (5% on Final Exam)
 
@@ -526,8 +506,7 @@ earn the full 5% bonus. You can check your participation through the
 link in Brightspace weekly. You cannot receive more than 100% on the
 final exam.
 
-Term Assignment: 25% of final grade (requires documentation for an
-academic consideration)
+Term Assignment: (requires documentation for an academic consideration)
 
 ### Option 1 -- Paired Debate 
 
@@ -698,8 +677,7 @@ it next year (i.e. 4-5 double spaced pages).
 
 ## Essay or Policy Analysis (if chosen)
 
-35% of final grade, due at the end of **Week 9** (Nov 24, 2025, 11:59
-PM).
+Due at the end of **Week 9** (Nov 24, 2025, 11:59 PM).
 
 The final draft of the paper should be 8 pages (2000 words) in length
 (excluding the bibliography) and must be presented in proper scholarly
@@ -798,7 +776,7 @@ than 2000 words of written work in their weekly participation.
 ## Final Exam 
 
 15 or 40% of final course grade (depending on course options chosen).
-For those who choose the essay or policy analysis the exam is worth 20%.
+For those who choose the essay or policy analysis the exam is worth 15%.
 For those who choose the summative assignment the final exam is worth
 40% and must be written in person. To be scheduled during the exam
 period. The final exam will be cumulative (i.e., will be based on the
@@ -2037,4 +2015,3 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     This is an **open source document** (CC BY NC 4.0). Feel free to use
     it, modify it, and share it with others .This document was designed
     by [Dr. Torrey Trust.](http://www.torreytrust.com/)
-
