@@ -1982,7 +1982,7 @@ Academic Appeals policy.
 
 APPENDIX TO UNDERGRADUATE COURSE OUTLINES DEPARTMENT OF POLITICAL
 SCIENCE
-<https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES.pdf>
+<https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES1.pdf>
 
 Other relevant links:
 
@@ -2015,3 +2015,4 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     This is an **open source document** (CC BY NC 4.0). Feel free to use
     it, modify it, and share it with others .This document was designed
     by [Dr. Torrey Trust.](http://www.torreytrust.com/)
+
