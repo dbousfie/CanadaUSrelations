@@ -449,7 +449,7 @@ Weekly Engagement Options (a minimum of two options required per week):
 1.  Brightspace Lesson Quiz Completion: Complete the 2 lesson quizzes in
     the 'Tests & Quizzes' section. These quizzes are pass/fail; only
     completion is counted, not quiz score. Each quiz counts for one
-    participation mark.
+    participation mark. In-class exercises can also count for participation but are unlikely to help you achieve your word count requirements.
 
 2.  Written Responses (250 words per lesson): A reflective analysis
     engaging with lesson ideas and concepts from lectures, readings, or
@@ -2008,3 +2008,4 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     This is an **open source document** (CC BY NC 4.0). Feel free to use
     it, modify it, and share it with others .This document was designed
     by [Dr. Torrey Trust.](http://www.torreytrust.com/)
+
