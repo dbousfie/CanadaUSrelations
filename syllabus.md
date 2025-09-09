@@ -2009,3 +2009,4 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     it, modify it, and share it with others .This document was designed
     by [Dr. Torrey Trust.](http://www.torreytrust.com/)
 
+check your attendance with this link https://bit.ly/3210attend2025
