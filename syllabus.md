@@ -2010,3 +2010,9 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     by [Dr. Torrey Trust.](http://www.torreytrust.com/)
 
 check your attendance with this link https://bit.ly/3210attend2025
+
+Q Hi, for the week 1 participation I've already done the group assignment (although it was only submitted by a peer with my name included), does this count towards my participation? For full participation afterwards would I then need to complete only one quiz, both quizzes, or both quizzes and a written response?
+
+A: There's only one quiz per week. To get the base 70 you just report in your weekly submission that you did the group work, and completed the quiz (2 things). If you want above the base 70 you have to complete one of the written options or a tiktok
+The summary of your weekly participation goes in the tab in brightspace - it's where I provide the feedback so that you can improve for your second submission Fyi - somebody already submitted an AI generated reading response, so I'm doing this precisely to discourage that
+
