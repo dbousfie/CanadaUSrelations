@@ -2018,4 +2018,79 @@ The summary of your weekly participation goes in the tab in brightspace - it's w
 
 I like to say that comparing Canada and the US is comparing apples to oranges, they are both fruit, but they're clearly not the same. Stating that they're different is not the same as explaining that they're different.
 
+This is an Exemplar and explanation of what the week 12 participation summary will look like
+
+Participation Q&A
+Q: What does it mean to calculate participation?
+A: By calculating participation, we minimise unconscious bias, groupthink, and subjective assessment. Participation is assessed on clear, objective evidence. Students present what they’ve done in a way that demonstrates compliance with course expectations, rather than relying on the instructor’s memory or impressions.
+
+Q: Why do you do it this way?
+A: The purpose is to reduce unconscious bias and subjectivity in grading. The system is transparent and evidence-based, giving every student the same foundation. Everyone begins with the same base of 70% for completing quizzes + in-class group work each week. Students who go beyond this minimum by producing written work that shows revision and direct citation of weekly readings can move above the 70%.
+
+Q: What counts and what doesn’t?
+
+Counts toward base: Weekly quizzes + in-class group work (top 10 weeks).
+
+Counts toward extra: Written assignments (~250 words each), only if they directly cite the week’s assigned readings (with page numbers) and demonstrate improvement from first to second attempt.
+
+Does not count: Attendance (this is only a bonus toward your exam grade, not participation). Written work without direct citation of readings also does not count toward the extra.
+
+Q: Why evidence?
+A: All participation grades must be based on clear evidence (submitted work). This ensures equity is substantive: grades aren’t based on availability to attend, eagerness or interest, or the instructor’s bias, but on objective criteria anyone can meet.
+
+Week 12 — Participation Summary Exemplar (Student Submission)
+Student: Jane Doe
+Course: POLS 3210F — Canada–US Relations
+Instructor: Dr. Bousfield
+Submission Type: Participation calculation + improvement evidence 
+
+A) Participation Calculation
+I completed 10 counted weeks with Quiz + In‑class Group Work (base requirement) → Base 70% (17.5/25).
+
+To move above 70%, I completed five distinct written formats, each done twice (initial + revised) → 10 written pieces × ~250 words = ~2500 words (all written, no video/podcasts). These are extra forms beyond Quiz + Group Work.
+
+B) Format (written formats only; each format appears twice across the term)
+Op‑ed (≈250w) → Weeks 2 & 6
+
+Policy memo (≈250w) → Weeks 3 & 7
+
+Case brief (≈250w) → Weeks 4 & 8
+
+Comparative critique (≈250w) → Weeks 5 & 9
+
+Critical synthesis note (≈250w) → Weeks 10 & 11
+
+All five formats are fully written. No summaries, quizzes, or image‑based items are used as extra forms. Each revised piece below follows the paragraph template: topic sentence; three evidence points with direct quotes + page numbers from course readings and my own explanation after each; summary line; concluding sentence that mirrors the topic sentence.
+
+C) Second Attempts with Improvement Notes
+1) Op‑ed — Week 6 (Second Attempt)
+Topic: Border thickening and trade frictions
+Improvement demonstrated: Added two direct quotes with page numbers from the assigned readings; built a clear thesis in the opening line; used paragraph structure (topic → evidence/analysis → conclusion). The first attempt summarized events; the second shows analysis tied directly to readings.
+
+2) Policy memo — Week 7 (Second Attempt)
+Topic: Options for NORAD modernization
+Improvement demonstrated: Inserted three short quotes (with page numbers) from the week’s readings; connected each to a recommendation; added an “Implications” paragraph linking evidence to policy choice. The first attempt listed points; the second integrates evidence and argument.
+
+3) Case brief — Week 8 (Second Attempt)
+Case: CUSMA dispute over sectoral safeguards
+Improvement demonstrated: Used two direct quotations with page numbers to substantiate the precedent; clarified the case’s relevance with a final takeaway sentence. The first attempt lacked sourcing; the second anchors claims in course readings and provides analytical closure.
+
+4) Comparative critique — Week 9 (Second Attempt)
+Comparison: Two scholarly arguments on Canada–US policy coordination
+Improvement demonstrated: Juxtaposed three quoted propositions (with page numbers) from required readings; followed each with my own explanation; concluded with an explicit judgment of which framework fits best. The first attempt was descriptive; the second is analytical and evaluative.
+
+5) Critical synthesis note — Week 11 (Second Attempt)
+Theme: Strategic culture and Canadian defence choices
+Improvement demonstrated: Defined the concept with a direct quote + page number; added two further quotations to illustrate causal mechanisms; structured the paragraph with topic, evidence + explanation, and conclusion. The first attempt was vague; the second is precise, sourced, and analytical.
+
+Total written words across all formats: ≈ 2500 words
+
+D) therefore the grade should be: 
+Base: Top 10 weeks with Quiz + Group Work = 70%.
+
+Above‑base justification: Five written formats × two attempts (all written; ~2500 words) + documented improvement in the five revised pieces above → movement into the 85–90 range, at instructor discretion.
+
+[ file with all submissions attached or linked here]
+
+
 
