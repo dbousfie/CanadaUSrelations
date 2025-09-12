@@ -2016,3 +2016,6 @@ Q Hi, for the week 1 participation I've already done the group assignment (altho
 A: There's only one quiz per week. To get the base 70 you just report in your weekly submission that you did the group work, and completed the quiz (2 things). If you want above the base 70 you have to complete one of the written options or a tiktok
 The summary of your weekly participation goes in the tab in brightspace - it's where I provide the feedback so that you can improve for your second submission Fyi - somebody already submitted an AI generated reading response, so I'm doing this precisely to discourage that
 
+I like to say that comparing Canada and the US is comparing apples to oranges, they are both fruit, but they're clearly not the same. Stating that they're different is not the same as explaining that they're different.
+
+
