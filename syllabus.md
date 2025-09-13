@@ -2092,6 +2092,64 @@ Above‑base justification: Five written formats × two attempts (all written; ~
 
 [ file with all submissions attached or linked here]
 
+Q: Is class online or in-person?
+A: There's no synchronous content, but the audio is recorded each week.
+
+Q: What’s the course breakdown if I choose to do a CEL?
+A: The CEL is just an option for the term assignment; it doesn't change anything.
+
+Q: Is attendance mandatory?
+A: No. You can participate through the quiz and other forms of participation if you have to miss a class.
+
+Q: How many types of contributions must you do?
+A: Not specified, but you must complete different forms of participation; some can only be done a limited number of times.
+
+Q: Why is this considered a blended course?
+A: Because the videos are online, you can participate online, and you don’t strictly need to come to class. However, attending is strongly encouraged.
+
+Q: Do I have to watch the YouTube videos before every class?
+A: No, they are just backups for the lectures.
+
+Q: Where can I find the PowerPoint from each class?
+A: They are on the Google Sheet: http://tiny.cc/3210_2025
+.
+
+Q: Where do I apply to CEL?
+A: The CEL application links are in Brightspace and also on the Google Sheet: http://tiny.cc/3210_2025
+.
+
+Q: How do you apply for CEL?
+A: Access the Brightspace page to directly link to the Qualtrics application.
+
+Q: Can I do the CEL term assignment and also write the essay to take the 15% exam?
+A: Yes.
+
+Q: Does attendance in class and the group work count as two forms of participation?
+A: Attendance is strictly bonus. Group work is one form of participation and can be done each week. Only written work is limited (max twice).
+
+Q: Where do we post written responses?
+A: All written responses go in the weekly summary. Each week has its own summary.
+
+Q: Will there be a question to respond to, or can we just write anything?
+A: You should base responses on the lecture and readings of that week.
+
+Q: Is the essay proposal the same as the policy brief?
+A: The essay proposal is a term assignment. The policy brief is just an alternative format for the essay.
+
+Q: If I do the policy brief, do I still do the media assignment with it or the essay proposal?
+A: The policy brief substitutes for the essay. The media assignment remains separate.
+
+Q: When is each group work due?
+A: Ideally in class, but you can submit it up to the Monday before the next class. All participation has one week to be completed.
+
+Q: How are we supposed to refer to the professor?
+A: Refer to him as Dan.
+
+Q: What makes the class blended?
+A: In theory, it can be done online. It just takes a bit more work.
+
+Q: Does attending class count as a form of weekly participation?
+A: Attendance is strictly bonus.
 
 
 
