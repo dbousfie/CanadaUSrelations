@@ -2009,7 +2009,7 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     it, modify it, and share it with others .This document was designed
     by [Dr. Torrey Trust.](http://www.torreytrust.com/)
 
-check your attendance with this link https://bit.ly/3210attend2025
+check your attendance with this link https://westernu.brightspace.com/d2l/le/lessons/129459/topics/3450463
 
 Q Hi, for the week 1 participation I've already done the group assignment (although it was only submitted by a peer with my name included), does this count towards my participation? For full participation afterwards would I then need to complete only one quiz, both quizzes, or both quizzes and a written response?
 
@@ -2091,6 +2091,7 @@ Base: Top 10 weeks with Quiz + Group Work = 70%.
 Above‑base justification: Five written formats × two attempts (all written; ~2500 words) + documented improvement in the five revised pieces above → movement into the 85–90 range, at instructor discretion.
 
 [ file with all submissions attached or linked here]
+
 
 
 
