@@ -2151,5 +2151,6 @@ A: In theory, it can be done online. It just takes a bit more work.
 Q: Does attending class count as a form of weekly participation?
 A: Attendance is strictly bonus.
 
+If the weekly participation summary is submitted on the day of class there is a 5% bonus (instead of the grade being a base 70, it will be a base 75)
 
 
