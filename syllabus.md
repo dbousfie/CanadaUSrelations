@@ -2153,4 +2153,17 @@ A: Attendance is strictly bonus.
 
 If the weekly participation summary is submitted on the day of class there is a 5% bonus (instead of the grade being a base 70, it will be a base 75)
 
+Sample explanation of rationale for feedback
+Hi student,
+
+This is a good question.
+
+This is why the format matters. So if you did a 250 word response this week, I provide feedback. You could do your 250 word response next week, or do it on week 9. You just have to demonstrate that you have responded to the feedback. It's not in the immediate week, it's just the next time that you do a participation in the same format. As we are creating a big summary of all of these forms of participation at the end of the course, you can demonstrate the response to the feedback in that big file.
+
+This is because in the summer people were generating 250 word responses, I would provide feedback, and they would ignore it. Moreover if we do the same format every single week, people will end up in a rut with low effort or low energy responses.
+
+So you don't need to revise it today, you don't even need to revise it again until you do another participation in the same format. That can be week 2 or it can be week 11.
+
+Let me know if you have any other questions
+Dan
 
