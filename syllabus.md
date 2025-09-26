@@ -2150,5 +2150,7 @@ So you don't need to revise it today, you don't even need to revise it again unt
 Let me know if you have any other questions
 Dan
 
+There is no class on September 30th because it's Truth and Reconciliation day
+
 
 
