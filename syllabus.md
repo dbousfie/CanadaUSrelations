@@ -433,12 +433,7 @@ Weekly Assignments -- Base submission is pass/fail 70% (17.5 of 25)
 Students **must** complete a minimum of **two engagement options
 weekly** (Monday 12:01 am - Sunday 11:59 pm) to fulfill participation
 requirements. Quizzes can be completed each week for one participation
-mark. The remaining forms of participation can only be done twice each
-during the entire course (i.e. you can only do 2 tiktoks per semester).
-You can collaborate with peers on submissions, but they must be
-submitted individually. You must adopt 5 different forms of
-participation throughout the course to build your portfolio and prevent
-rote production of participation. A total of 10 weeks of participation
+mark. Tiktoks can be done each week but do not count towards your word count for the course. The remaining written forms of participation can only be done twice each during the entire course (i.e. you can only do 2 policy briefs summaries per semester). You can collaborate with peers on submissions, but they must be submitted individually. You must adopt 5 different forms of written participation throughout the course to build your portfolio and prevent rote production of participation if you planning to do the in-person exam.  A total of 10 weeks of participation
 is required, allowing students to skip 2 weeks (e.g., weeks 1 and 12).
 Completing 10 weeks fulfills the full 70%. If you are submitting the
 same assignment for a second time, make sure to address 'What did I do
@@ -2151,6 +2146,7 @@ Let me know if you have any other questions
 Dan
 
 There is no class on September 30th because it's Truth and Reconciliation day
+
 
 
 
