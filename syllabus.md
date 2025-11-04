@@ -2140,6 +2140,47 @@ Dan
 
 There is no class on September 30th because it's Truth and Reconciliation day
 
+Reading week information: 
+
+Hi all,
+
+I staggered my term assignment submissions from my other third year class, and there are some insights that came from their media assessments and assignments.
+
+We live in an era of what Ethan Mollick calls 'co-intelligence' - we live and think with AI. Unfortunately this has led to some problems with writing, which is why I am strongly encouraging people to do the in-person exam, and also encourage you to shift away from the essay proposal and the media assessment towards the paired debate. The paired debate is just a short video debating any contentious topic on Canada US relations, where each of you takes one of the sides of Canada or the US. You can switch into it at any time until next Tuesday.&nbsp;
+
+Why am I encouraging this?
+
+LLMs have created problems in writing. They are easily identifiable, the most common one in Political Science writing is 'negative parallelisms' which I am seeing all over the place. They normally function like 'It’s not just about the X; it’s part of the Y.'&nbsp;
+
+They are very easy to identify, this is the example on Wikipedia https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing#Style
+
+Why does this matter?
+
+Media assessment: LLMs love to smash anything together - they don't discriminate and so they will make connections where they don't exist. But they will do so in a way that parallels argument but doesn't make an argument.&nbsp; In the 30+ media assessments I marked in the last two days these words in particular stood out: 'symbolizes', 'imitates' , 'mirrors', 'deepens', 'seen similarily' because they're not actual arguments, it's just smashing words together. This is a consequence of the undue emphasis on 'symbolism' and 'importance' as a substitute for argument. It's descriptive and not analytical.
+
+The media assessment says minimum of 1000 words but the maximum is 1500, some people were giving me 4000 word media assessments. Being concise, clear and well argued following the paragraph structure is key.
+
+Essay proposal:&nbsp;
+
+I have been discouraging the essay proposal because it is not an indicator of success on the essay. It's a 1000 words and can help flag issues but given that I have the essay organizer here, I don't feel the proposal is a good use of your time. In general I am pushing students away from the essay precisely because LLMs are so proliferate and it's better to build a portfolio of different skills then one that is easily duplicated. You can be more creative in the debate then you can in the essay.
+
+If you do choose a written assignment, all written assignments (excluding participation) have one revise and resubmit, but you must follow the instructions here&nbsp;https://westernu.brightspace.com/d2l/le/lessons/129459/topics/3263451
+
+The single biggest problem I've seen across the board is citation and paragraph structure. It's what I've been trying to reinforce in the weekly participation. I have been using this quote from the course syllabus over and over and over again.
+
+I will be checking each page that you cite to make sure that the citation is accurate to prevent academic dishonesty. I will provide screen the page if there is any discrepancy in page number, wording in the quotation, or any paraphrasing (particularly if you have a citation that spans more than one page). There are no pages to cite in a video debate, so you can't end up in the trouble that you potentially can when an llm decides to authoritatively hallucinate and remove one or two words from a quote.
+
+I don't have office hours this week but I can meet with people if they need to chat.
+
+Please reach out if you have any questions or feel free to use the bots - I will put all of this information in them as well.
+
+Best, Dan
+
+From the course syllabus:
+
+Lack of data is a lack of foundation. In the era of LLMs, inaccurate citations will be treated as no citation at all. LLMs routinely summarize sources without accessing the underlying data. Failure to directly quote sources with quotation marks followed by an explanation in your own words will constitute a lack of sufficient citation. Paraphrasing is no longer sufficient justification for including a citation; you must use specific and precise language, including nouns (specific people, places, and things), as generalized summaries of sources are often hallucinated, inaccurate, and incomplete when suggested by LLMs.&nbsp;
+
+
 
 
 
