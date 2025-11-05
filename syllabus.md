@@ -2208,5 +2208,7 @@ It is rarely a good use of time to rewrite or resubmit a proposal for a paper. I
 Once you have revised and resubmitted your final paper, you can easily cut five pages and resubmit the essay proposal. Essay proposal resubmissions should be done after your paper is in the best situation possible. This will ensure that the essay proposal grade will match your final paper grade.
 
 
-
+Q: does only weekly participation count towards the 2500 necessary words?
+A: As long as you hit 2500 words for the term it doesn't matter where they come from - people doing the media assessment will also count for 2500 words.
+Tiktoks won't give you the word count, but anything written in essay paragraph format counts, wherever it comes from.
 
