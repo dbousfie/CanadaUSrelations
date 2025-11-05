@@ -2181,6 +2181,31 @@ From the course syllabus:
 Lack of data is a lack of foundation. In the era of LLMs, inaccurate citations will be treated as no citation at all. LLMs routinely summarize sources without accessing the underlying data. Failure to directly quote sources with quotation marks followed by an explanation in your own words will constitute a lack of sufficient citation. Paraphrasing is no longer sufficient justification for including a citation; you must use specific and precise language, including nouns (specific people, places, and things), as generalized summaries of sources are often hallucinated, inaccurate, and incomplete when suggested by LLMs.&nbsp;
 
 
+Revise and resubmit
+Everyone in all of my third and fourth year courses has one 'revise and resubmit' on every written assignment. I do this as practice because that's how my papers and chapters are reviewed by editors, and it's a primary value of the university experience, editing and revising.
+
+Written assignments in this course are able to be revised and resubmitted once and once only.
+
+If you want to use this as a draft option, you can hand in your written assignment early.
+
+In most cases, you will want to revise and resubmit the substantial assignments first, such as an essay.
+
+For students submitting on time: I follow a first-in-first-out essay submission system. If you submit your essay on time I will aspire to have it back as soon as possible, so you can revise and resubmit it asap.
+
+For students submitting with an approved extension: it's less likely that you will get the essay back in time to revise it. Please keep that in mind. 
+
+Resubmission rules
+
+1. Resubmissions can only result in a higher grade, as long as you track changes. If you do not track changes I will have to remark your paper from scratch and your grade is no longer guaranteed to improve. We use the online version of Word - we can track changes with --'review'-> 'track changes'--> 'track changes for everyone'
+
+2. You must include a grade goal for your revised paper. The grade goal lets me assess the extent to which you have taken my comments and feedback and made sufficient changes to achieve your grade goal.
+
+3. You will not receive a second set of comments on the revisions only a revised grade. This is standard practice in publishing as well (revisions are sufficient and they publish or revisions are insufficient and they reject).
+
+Essay proposal resubmissions
+It is rarely a good use of time to rewrite or resubmit a proposal for a paper. Instead go ahead and start working on your paper so that you can take advantage of the paper revise and resubmit.
+
+Once you have revised and resubmitted your final paper, you can easily cut five pages and resubmit the essay proposal. Essay proposal resubmissions should be done after your paper is in the best situation possible. This will ensure that the essay proposal grade will match your final paper grade.
 
 
 
