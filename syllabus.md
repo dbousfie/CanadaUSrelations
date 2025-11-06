@@ -732,17 +732,17 @@ marked, but comments will not be provided.
 
 ## Summative Assignment 10% (if chosen)
 
-Due at the end of Week 11 (December 8, 2025, 11:59 PM. Minimum 2500
-words required. The summative assignment is only available to students
-who have completed a minimum of 2000 words of weekly responses
-throughout the course. If chosen, students must also write the 40% in
-person final exam. The summative assessment follows the guidelines of
-the weekly participation final calculation. It must include every weekly
-participation submission as well as a short 250-500 word reflective
-summary demonstrating clear engagement with course materials throughout
-the course as well as reflection and development of critical thinking
-throughout the course. It is not available to students who complete less
-than 2000 words of written work in their weekly participation.
+Summative Assignment 10% (if chosen) 
+Due: End of Week 11 (December 8, 2025, 11:59 PM) Length: Minimum 2,500 words 
+Eligibility: This option is available only to students who: 
+Have completed at least 2,000 words of formal written work in essay format during the course (excluding the main course essay), and 
+Will complete the 40% in-person final exam. 
+Assignment Requirements: 
+The summative assessment follows the same guidelines as the weekly participation final calculation. It must include: 
+All weekly participation submissions, including TikToks and other submitted materials, and 
+A 250–500 word reflective summary demonstrating clear engagement with course materials and evidence of improvement throughout the term. 
+Important: 
+Students who completed other assignments (such as the term assignment) may choose this option, but the grade for the summative assessment cannot exceed the total participation calculation — i.e. you cannot double-count the grade on your term assignment within your participation grade. 
 
 ## Final Exam 
 
@@ -2211,4 +2211,5 @@ Once you have revised and resubmitted your final paper, you can easily cut five 
 Q: does only weekly participation count towards the 2500 necessary words?
 A: As long as you hit 2500 words for the term it doesn't matter where they come from - people doing the media assessment will also count for 2500 words.
 Tiktoks won't give you the word count, but anything written in essay paragraph format counts, wherever it comes from.
+
 
