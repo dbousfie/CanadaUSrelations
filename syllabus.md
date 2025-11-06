@@ -2212,4 +2212,7 @@ Q: does only weekly participation count towards the 2500 necessary words?
 A: As long as you hit 2500 words for the term it doesn't matter where they come from - people doing the media assessment will also count for 2500 words.
 Tiktoks won't give you the word count, but anything written in essay paragraph format counts, wherever it comes from.
 
+q: where is the revised and resubmission information
+a: here https://westernu.brightspace.com/d2l/le/lessons/129459/topics/3263451
+
 
