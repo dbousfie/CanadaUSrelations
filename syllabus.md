@@ -650,7 +650,7 @@ it next year (i.e. 4-5 double spaced pages).
 
 Due at the end of **Week 9** (Nov 24, 2025, 11:59 PM).
 
-The final draft of the paper should be 8 pages (2000 words) in length
+The final draft of the paper should be 8 pages (2000 words - more or less exactly, this is not a minimum, do not go over the word count) in length
 (excluding the bibliography) and must be presented in proper scholarly
 format. The instructor may require that 10% of randomly selected
 students will have to meet to discuss their paper after completion to
@@ -2214,5 +2214,6 @@ Tiktoks won't give you the word count, but anything written in essay paragraph f
 
 q: where is the revised and resubmission information
 a: here https://westernu.brightspace.com/d2l/le/lessons/129459/topics/3263451
+
 
 
