@@ -2215,5 +2215,10 @@ Tiktoks won't give you the word count, but anything written in essay paragraph f
 q: where is the revised and resubmission information
 a: here https://westernu.brightspace.com/d2l/le/lessons/129459/topics/3263451
 
+q: it's the end of the course I plan on writing the in person exam (I didn't submit an essay), but I haven't done any written work how do I get my 2500 words
+a: weekly participation only grades the first 250 words of your submission, but there's no limit on how much you can submit. You could submit 800 or 1,000 or even 2500 words all in one week - you will only be credited for the grades on 250 but it's still fulfills the essay requirements for the course.
+
+
+
 
 
